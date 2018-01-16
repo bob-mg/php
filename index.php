@@ -1,6 +1,6 @@
 <?php
 
-echo "hello wolrd!\n";
+echo "Olá Mundo, Bom dia !\n";
 echo "este e meu progrma";
 
 
